@@ -27,7 +27,7 @@
     "AWS_BUCKET_NAME",
     "AWS_REGION"
   ],
-  "pipeline": {
+  "tasks": {
     "build": {
       "dependsOn": ["^build"],
       "outputs": [".next/**", "!.next/cache/**", "dist/**"],
