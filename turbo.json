@@ -29,7 +29,11 @@
     "REVALIDATION_SECRET",
     "DATABASE_URL",
     "NEXTAUTH_URL",
-    "AUTH_TRUST_HOST"
+    "AUTH_TRUST_HOST",
+    "BETTER_AUTH_SECRET",
+    "BETTER_AUTH_URL", 
+    "RESEND_API_KEY",
+    "NEXT_PUBLIC_BETTER_AUTH_URL"
   ],
   "tasks": {
     "build": {
@@ -54,7 +58,11 @@
         "REVALIDATION_SECRET",
         "DATABASE_URL",
         "NEXTAUTH_URL",
-        "AUTH_TRUST_HOST"
+        "AUTH_TRUST_HOST",
+        "BETTER_AUTH_SECRET",
+        "BETTER_AUTH_URL",
+        "RESEND_API_KEY", 
+        "NEXT_PUBLIC_BETTER_AUTH_URL"
       ]
     },
     "dev": {
