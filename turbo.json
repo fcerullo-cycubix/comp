@@ -33,7 +33,10 @@
     "BETTER_AUTH_SECRET",
     "BETTER_AUTH_URL", 
     "RESEND_API_KEY",
-    "NEXT_PUBLIC_BETTER_AUTH_URL"
+    "NEXT_PUBLIC_BETTER_AUTH_URL",
+    "RESEND_FROM_DEFAULT",
+    "RESEND_FROM_MARKETING",
+    "RESEND_FROM_SYSTEM"
   ],
   "tasks": {
     "build": {
@@ -62,7 +65,10 @@
         "BETTER_AUTH_SECRET",
         "BETTER_AUTH_URL",
         "RESEND_API_KEY", 
-        "NEXT_PUBLIC_BETTER_AUTH_URL"
+        "NEXT_PUBLIC_BETTER_AUTH_URL",
+        "RESEND_FROM_DEFAULT",
+        "RESEND_FROM_MARKETING",
+        "RESEND_FROM_SYSTEM"
       ]
     },
     "dev": {
