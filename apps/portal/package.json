@@ -27,7 +27,8 @@
     "react": "^19.1.1",
     "react-dom": "^19.1.0",
     "react-email": "^4.0.15",
-    "sonner": "^2.0.5"
+    "sonner": "^2.0.5",
+    "trigger.dev": "^4.0.4"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4.1.10",
